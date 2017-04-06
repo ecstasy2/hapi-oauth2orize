@@ -11,7 +11,7 @@
     "url": "git://github.com/blinkmobile/hapi-oauth2orize.git"
   },
   "dependencies": {
-    "oauth2orize": "UN-OCHA/oauth2orize",
+    "oauth2orize": "~1.8.0",
     "boom": "~2.8.0",
     "hoek": "^2.14.0"
   },
